@@ -93,3 +93,4 @@ export const CONTACT = {
   phoneNo: "+216 55 199 445 ",
   email: "oussamabenmahmoud26@gmail.com",
 };
+
