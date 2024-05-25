@@ -88,7 +88,7 @@ export const EDUCATION = [
 
 
 export const CONTACT = {
-  address: "Rue Baghded 4 - 4022 ",
+  address: " ",
   address1: "Akouda - Sousse - Tunisia ",
   phoneNo: "+216 55 199 445 ",
   email: "oussamabenmahmoud26@gmail.com",
