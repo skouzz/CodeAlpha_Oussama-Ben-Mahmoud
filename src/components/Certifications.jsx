@@ -22,7 +22,7 @@ export default function Certifications() {
           onClick={() => handleRedirect("https://www.credly.com/badges/f3954a69-646f-412b-bb74-ea8fa6832bec/public_url")}
           style={{ cursor: "pointer" }}
         >
-          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="/public/databases.png" alt="" />
+          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="/databases.png" alt="" />
           <p className="text-center text-lg">IT Specialist - Databases Certiport</p>
         </motion.div>
         <motion.div
@@ -33,7 +33,7 @@ export default function Certifications() {
           onClick={() => handleRedirect("https://www.credly.com/badges/dfd5592b-c1c7-4c9e-b066-08c7c350af09/public_url")}
           style={{ cursor: "pointer" }}
         >
-          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="/public/CCNA1.png" alt="" />
+          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="/CCNA1.png" alt="" />
           <p className="text-center text-lg">CCNA: Switching, Routing, and Wireless Essentials</p>
         </motion.div>
         <motion.div
@@ -44,7 +44,7 @@ export default function Certifications() {
           onClick={() => handleRedirect("https://www.credly.com/badges/f46265bb-0e41-410c-83a7-48edaba8a8fb/public_url")}
           style={{ cursor: "pointer" }}
         >
-          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="/public/CCNA.png" alt="" />
+          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="/CCNA.png" alt="" />
           <p className="text-center text-lg">CCNA: Introduction to Networks</p>
         </motion.div>
       </div>
