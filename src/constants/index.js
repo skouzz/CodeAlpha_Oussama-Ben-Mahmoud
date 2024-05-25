@@ -89,7 +89,7 @@ export const EDUCATION = [
 
 export const CONTACT = {
   address: " ",
-  address1: "Akouda - Sousse - Tunisia ",
+  address1: "Sousse - Akouda 4022 ",
   phoneNo: "+216 55 199 445 ",
   email: "oussamabenmahmoud26@gmail.com",
 };
